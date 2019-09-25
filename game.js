@@ -37,4 +37,10 @@ var vraag7 = prompt("Wat doe je rondjes lopen en tijd rekken of zeg je tegen hem
 
 
 if (vraag7 == "tijd rekken "){
-alert('je hebt de goede keuze gemaakt en hij zegt loop voor me rustig handen omhoog en geen rare bewegingen en niet rennen want dat schiet ik je ');}
+alert('je hebt de goede keuze gemaakt en hij zegt loop voor me rustig handen omhoog en geen rare bewegingen en niet rennen want dat schiet ik je ');
+var vraag8 = prompt("Wat doen wat hij zegt of gaan rennnen ") 
+}
+
+
+if (vraag8 == "doen wat hij zegt"){
+alert('je hebt de goede keuze gemaakt en je loopt rondje langs de bakker afdeling en hij paakt daar wat boordjes en eet het tijdens het lopen van de ');
